@@ -41,7 +41,9 @@ _หมายเหตุ การคัดลอกไฟล์ AngularJS จ�
 
 ## Run the Application
 เราได้กำหนดค่าโครงการล่วงหน้าด้วยเว็บเซิร์ฟเวอร์การพัฒนาอย่างง่าย วิธีที่ง่ายที่สุดในการเริ่มต้นเซิร์ฟเวอร์นี้คือ:
+
 >npm start
+
 ตอนนี้เรียกดูเว็ปแอพได้ที่ (http://localhost:4200/)
 
 ## Directory Layout
@@ -159,5 +161,5 @@ package-lock.json     --> Npm specific metadata, including versions of installed
 
 ## Contact
 For more information on AngularJS please check out [angularjs.org](https://angularjs.org/). 
-Natkamon Meejaipranee
-Sirirat Mijit
+>Natkamon Meejaipranee
+>Sirirat Mijit
