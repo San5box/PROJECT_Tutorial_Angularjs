@@ -158,4 +158,6 @@ package-lock.json     --> Npm specific metadata, including versions of installed
 คุณจะต้องเปิดใช้งานการผสานรวมระหว่าง Travis และ GitHub ดู เว็บไซต์ [Travis](https://docs.travis-ci.com/user/tutorial/)สำหรับคำแนะนำเกี่ยวกับวิธีการทำเช่นนี้
 
 ## Contact
-For more information on AngularJS please check out [angularjs.org](https://angularjs.org/).
+For more information on AngularJS please check out [angularjs.org](https://angularjs.org/). 
+Natkamon Meejaipranee
+Sirirat Mijit
