@@ -4,4 +4,5 @@ This project is an application skeleton for a typical AngularJS web app. You can
 
 The tutorial contains a sample AngularJS application and is preconfigured to install the AngularJS framework and a bunch of development and testing tools for instant web development gratification.
 
-Getting Started
+# Getting Started
+To get you started you can simply clone the PROJECT_Tutorial_Angularjs repository and install the dependencies:
